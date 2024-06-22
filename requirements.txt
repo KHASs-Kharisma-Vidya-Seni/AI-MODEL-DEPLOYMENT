@@ -1,0 +1,11 @@
+Flask
+Flask_Cors
+numpy
+onnxruntime
+opencv_python
+Pillow
+python-dotenv
+Requests
+torch
+torchvision
+dlib
